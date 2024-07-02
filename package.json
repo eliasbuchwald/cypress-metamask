@@ -37,7 +37,7 @@
     "puppeteer-core": "^9.1.1",
     "standard": "^16.0.3",
     "start-server-and-test": "^1.12.2",
-    "superstatic": "^7.1.0",
+    "superstatic": "^8.0.0",
     "semantic-release": "^17.4.3"
   },
   "repository": {
